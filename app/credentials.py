@@ -7,12 +7,13 @@ AZURE_OPENAI_API_VERSION = "2023-03-15-preview"
 
 # Change these below with your own services credentials
 
-AZURE_SEARCH_ENDPOINT = "Enter your Azure Cognitive Search Endpoint ..."
-AZURE_SEARCH_KEY = "Enter your Azure Cognitive Search Primary Key ..."
-COG_SERVICES_NAME = "Enter your Azure Cognitive services multi-service account name ..."
-COG_SERVICES_KEY = "Enter your Azure Cognitive services multi-service Key ..."
-AZURE_OPENAI_ENDPOINT = "Enter your Azure OpenAI Endpoint ..."
-AZURE_OPENAI_KEY = "Enter your Azure OpenAI Key ..."
+AZURE_SEARCH_ENDPOINT = "https://azure-cog-search-pxc7rhzshzs3w.search.windows.net"
+AZURE_SEARCH_KEY = "K90MghqhmvbdDtuv1IpQgPB8iFlR5fdTb0H9ZvwxkIAzSeDg6jUF"
+COG_SERVICES_NAME = "cognitive-service-pxc7rhzshzs3w"
+COG_SERVICES_KEY = "47f28000adc64045bf3820c1ccbba236"
+AZURE_OPENAI_ENDPOINT = "https://chatsearchengine-aoai.openai.azure.com/"
+AZURE_OPENAI_KEY = "ff8cfa42939d49f78ee8dd4f97cfdbaa"
+
 
 
 
